@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # uas_pemrograman_mobile
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+>>>>>>> cf7785e359bcf42fcd369d5db6b4a625b0290ff5
